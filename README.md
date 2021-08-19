@@ -6,3 +6,7 @@ Compile or execute, and then modifies the assembly code to discover the credenti
 Tested in CodeBlocks.
 
 
+
+"Is trap Read the C++ file before the .exe."
+
+
